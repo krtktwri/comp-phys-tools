@@ -6,7 +6,7 @@ Current version has the following:
 
 1. Parallelizing Python Code (to solve for Kepler orbits)
 
-Developed and being optimized for the next update:
+Developed and current being optimized for the next update:
 
 1. Iterative Crank Nicholson Integrator (to solve Schrodinger Equation for arbitrary potentials + generate GIFs of wavefunction)
 2. Adaptive Step-Size Runge Kutta (to solve stellar hydrostatic equilibrium)
