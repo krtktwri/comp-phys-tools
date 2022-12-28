@@ -8,6 +8,7 @@ Current version has the following:
 2. [Py] Iterative Crank Nicholson Integrator (to solve Schrodinger Equation for arbitrary potentials + generate animations of probability distribution)
 3. [Jl] Adaptive Step-Size Runge Kutta (to solve for White-Dwarf Mass Radius Relationship + julia native multithreading)
 4. [Py] FFT+Jacobi solver with limited multigrid functionality (to solve for a hydrostatic equilibrium PDE system with small angular momentum)
+5. [Jl] Octree Algorithm (for speeding up large n-body computations)
 
 In the pipeline for near future:
 
