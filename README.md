@@ -15,4 +15,3 @@ In the pipeline for near future:
 1. [CUDA] GPU Acceleration (to solve N-body problems with C)
 2. [Jl] Adaptive Mesh Refinement (to solve, hopefully, some NR system) 
 3. [Jl] Metropolis Algorithm (for solving Feynman Path Integral)
-4. [Py+Blender] Finite Element Analysis 
